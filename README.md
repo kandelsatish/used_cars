@@ -19,23 +19,23 @@ This project requires Python 3.6+ and the following Python libraries installed:
 - Seaborn
 - Scikit-Learn
 
-To run this project, download the project files and run the Jupyter notebook.
+To run this project, download the project files and run the Jupyter Notebook.
 
 ## Usage
-After installing the necessary libraries, open the Jupyter notebook. You can view the code and output for each cell and run each cell individually. To run all cells at once, click Cell -> Run All in the menu.
+After installing the necessary libraries, open the Jupyter Notebook. You can view the code and output for each cell and run each cell individually. To run all cells at once, click Cell -> Run All in the menu.
 
 ## Features
 The project consists of several components:
 
 - **Data Preprocessing**: Cleaning the dataset to ensure it’s suitable for training a model. This includes removing outliers, handling missing values, and handling duplicates.
-- **Feature Engineering**: Transforming the raw data into a format that is more suitable for modeling. This includes encoding categorical variables, scaling numerical features, and handling highly correlated features.
+- **Feature Engineering**: Transforming the raw data into a format that is more suitable for modelling. This includes encoding categorical variables, scaling numerical features, and handling highly correlated features.
 - **Model Training**: Training the machine learning model on the preprocessed dataset. This includes splitting the dataset, feature scaling, and hyperparameter tuning.
 - **Model Evaluation**: Assessing the performance of the trained model. This includes using metrics and achieving a high accuracy rate.
-- **Prediction**: Using the trained and evaluated model to make predictions on new data.
+- **Prediction**: Using the trained and evaluated model to predict new data.
 - **User Interface**: Developing a simple web interface where users can input car features and receive predicted prices.
 
 ## Contributors
-We are a group of dedicated students working collaboratively on the Used Car Price Prediction Model project. Our diverse backgrounds and shared interest in machine learning have brought us together to develop this model. Each member has contributed significantly to various aspects of the project, from data preprocessing and feature engineering to model training and user interface design. We are committed to providing a valuable tool for both sellers and buyers in the used car market, helping them make informed decisions about the price of used cars. Below is a list of our group members:
+We are a group of dedicated students working collaboratively on the Used Car Price Prediction Model project. Our diverse backgrounds and shared interest in machine learning have brought us together to develop this model. Each member has contributed significantly to various aspects of the project, from data preprocessing and feature engineering to model training and user interface design. We are committed to providing a valuable tool for sellers and buyers in the used car market, helping them make informed decisions about the price of used cars. Below is a list of our group members:
 
 | S/N | Full Name | Student ID |
 | --- | --------- | ---------- |
