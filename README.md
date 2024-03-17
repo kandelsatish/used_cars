@@ -14,15 +14,15 @@ The automotive industry, particularly the used car market, is a dynamic and comp
 Let’s consider purchasing a second-hand automobile. When looking for a certain model and year, you may come across an advertisement for the ideal vehicle. You're unclear if the asking price is realistic. Comparing the costs of identical automobiles may be time-consuming and inefficient. We propose software that uses basic car information to produce an acceptable asking price based on prior sales.
 This project proposes a method that allows users to input basic information about a specific vehicle into a program that generates a reasonable asking price based on previous sales. The project's target consumers are those who purchase or sell used cars. A more open and efficient pricing structure will help both buyers and sellers of used cars. This would allow buyers to determine if an asking price is above average, below average, or fair, while sellers can easily determine a reasonable asking price for their vehicles. The project addresses the challenge of identifying the most 2 important factors in the price prediction model, which helps both parties better understand the reasoning behind the current value of their vehicles.
 
-##Project Outcome
-Informed Buying and Selling: Helps consumers make informed decisions when buying or selling used cars.
- Price Transparency: Promotes transparency by showing how various factors affect car prices.
- Fair Pricing: Facilitates fair pricing in the used car market for both buyers and sellers.
- Time and Effort Savings: Saves time and effort by automating the price estimation process.
- Reduced Information Asymmetry: Reduces information gaps between buyers and sellers.
- Market Insights: Provides insights into market trends for dealerships and the automotive industry.
- Enhanced User Experience: Offers a user-friendly tool for estimating car prices.
- User Feedback and Improvement: Uses user feedback to improve price predictions over time.
+## Project Outcomes
+- Informed Buying and Selling: Helps consumers make informed decisions when buying or selling used cars.
+- Price Transparency: Promotes transparency by showing how various factors affect car prices.
+- Fair Pricing: Facilitates fair pricing in the used car market for both buyers and sellers.
+- Time and Effort Savings: Saves time and effort by automating the price estimation process.
+- Reduced Information Asymmetry: Reduces information gaps between buyers and sellers.
+- Market Insights: Provides insights into market trends for dealerships and the automotive industry.
+- Enhanced User Experience: Offers a user-friendly tool for estimating car prices.
+- User Feedback and Improvement: Uses user feedback to improve price predictions over time.
 
 ## Installation
 This project requires Python 3.6+ and the following Python libraries installed:
