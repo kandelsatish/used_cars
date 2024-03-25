@@ -26,7 +26,6 @@ After installing the necessary libraries, open the Jupyter Notebook. You can vie
 
 ## Features
 The project consists of several components:
-
 - **Data Preprocessing**: Cleaning the dataset to ensure it’s suitable for training a model. This includes removing outliers, handling missing values, and handling duplicates.
 - **Feature Engineering**: Transforming the raw data into a format that is more suitable for modelling. This includes encoding categorical variables, scaling numerical features, and handling highly correlated features.
 - **Model Training**: Training the machine learning model on the preprocessed dataset. This includes splitting the dataset, feature scaling, and hyperparameter tuning.
