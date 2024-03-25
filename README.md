@@ -22,11 +22,10 @@ This project proposes a method that allows users to input basic information abou
 - Reduced Information Asymmetry: Reduces information gaps between buyers and sellers.
 - Market Insights: Provides insights into market trends for dealerships and the automotive industry.
 - Enhanced User Experience: Offers a user-friendly tool for estimating car prices.
-- User Feedback and Improvement: Uses user feedback to improve price predictions over time.
+- User Feedback and Improvement: Uses user feedback to improve price predictions overtime.
 
 ## Installation
 This project requires Python 3.6+ and the following Python libraries installed:
-
 - NumPy
 - Pandas
 - Matplotlib
